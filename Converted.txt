@@ -1,0 +1,1 @@
+{"Bambang": "12", "Ani": "13", "Dido": "12", "Rama": "11", "Mumun": "12", "Kevin": "13", "Edo": "13", "UUs": "12"}
